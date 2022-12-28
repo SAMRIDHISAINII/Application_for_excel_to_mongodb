@@ -1,12 +1,12 @@
 # EXCELTODB
 
 ## Objective
-### Make a node.js application to add candidate records from Excel to mongo database
+#### Make a node.js application to add candidate records from Excel to mongo database
 
 ## Requirements
-### A web landing page as per wireframe
-### Provide an excel upload option
-### Success or Error Message
+#### A web landing page as per wireframe
+#### Provide an excel upload option
+#### Success or Error Message
 
 ## Tech stack
 
